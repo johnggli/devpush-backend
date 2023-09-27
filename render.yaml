@@ -1,7 +1,7 @@
 databases:
   - name: devpush-backend
-    databaseName: devpush-backend
-    user: devpush-backend
+    databaseName: devpush_backend
+    user: devpush_backend
 
 services:
   - type: web
